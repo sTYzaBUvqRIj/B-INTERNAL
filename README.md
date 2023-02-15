@@ -1,1 +1,1 @@
-# B'INTERNAL - bothaxyt Growtopia Internal
+# B'INTERNAL - bothaxyt (Growtopia) Internal
