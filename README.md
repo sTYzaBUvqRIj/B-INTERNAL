@@ -1,8 +1,8 @@
 # B'INTERNAL - bothaxyt (Growtopia) Internal
 * Latest version: Release v1.0
 * Growtopia version: 4.17
-* Link download: [Here(https://semawur.com/Pf1Ep)]
-* Link discord: [Here(https://discord.gg/z8rzEXpyTs)]
+* [Download (semawur)](https://semawur.com/Pf1Ep)
+* Link discord: https://discord.gg/z8rzEXpyTs
 
 # Changelog
 ## [2/26/2023]: Release v1.0
