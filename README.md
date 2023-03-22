@@ -1,10 +1,16 @@
 # B'INTERNAL - bothaxyt (Growtopia) Internal
-* Latest version: Release v2.0
-* Growtopia version: 4.18
-* [Download (semawur)](https://semawur.com/aAsvWGFsEC5)
+* Latest version: Release v3.0
+* Growtopia version: 4.19
+* [Download (semawur)](https://khaddavi.net/6nDyKZhye)
+* [Download loader](https://cdn.discordapp.com/attachments/1076792846780203088/1087979458838929450/BINTERNAL_loader__multibox.exe)
 * Link discord (key at discord server): https://discord.gg/z8rzEXpyTs
 
 # Changelog
+## [3/22/2023]: Release v3.0
+* Added lua api: RunDelayed, Choice, MultiChoice
+* Added shortcut
+* Added config at Framework
+
 ## [3/4/2023]: Release v2.0
 * Cursor TP (crtl) at Miscellanous
 * Fixed ItemInfo structure
