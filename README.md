@@ -2,7 +2,7 @@
 * Latest version: Release v3.0
 * Growtopia version: 4.19
 * [Download (semawur)](https://khaddavi.net/6nDyKZhye)
-* [Download loader](https://cdn.discordapp.com/attachments/1076792846780203088/1087979458838929450/BINTERNAL_loader__multibox.exe)
+* [Download loader](https://cdn.discordapp.com/attachments/1076792846780203088/1087991561901576213/BINTERNAL_loader__multibox.exe)
 * Link discord (key at discord server): https://discord.gg/z8rzEXpyTs
 
 # Changelog
