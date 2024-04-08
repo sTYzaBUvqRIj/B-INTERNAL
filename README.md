@@ -10,7 +10,7 @@
 # Changelog
 ## [4/8/2024]: Beta v1.0
 * Some feature adapted from old menus
-* Enhanched lua executor (less crash, more stable)
+* Enhanched lua executor (less crash, more stable). Lua docs coming soon
 * Keyboard available
 * TextEditor using java
 * Some new features like touch move
