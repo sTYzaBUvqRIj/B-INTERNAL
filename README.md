@@ -2,7 +2,7 @@
 # B'INTERNAL - bothaxyt MOBILE version
 * Latest version: Beta v1.0
 * Growtopia version: 4.53
-* [Download APK]()
+* [Download APK](https://sfl.gl/uz1Sw)
 * [Download LIB]()
 * Further information available at discord server/youtube channel (coming soon)
 * [Link discord (key at discord server)](https://discord.gg/z8rzEXpyTs)
