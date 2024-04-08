@@ -1,9 +1,25 @@
+### Android version
+# B'INTERNAL - bothaxyt MOBILE version
+* Latest version: Beta v1.0
+* Growtopia version: 4.53
+* [Download APK]()
+* [Download LIB]()
+* Further information available at discord server/youtube channel (coming soon)
+* [Link discord (key at discord server)](https://discord.gg/z8rzEXpyTs)
+
+# Changelog
+## [4/8/2024]: Beta v1.0
+* Some feature adapted from old menus
+* Enhanched executor (less crash, more stable)
+* Keyboard available
+* TextEditor using java
+
+### Windows Version
 # B'INTERNAL - bothaxyt (Growtopia) Internal
 * Latest version: Release v3.0
 * Growtopia version: 4.19
 * [Download (semawur)](https://khaddavi.net/6nDyKZhye)
 * [Download loader](https://cdn.discordapp.com/attachments/1076792846780203088/1087991561901576213/BINTERNAL_loader__multibox.exe)
-* Link discord (key at discord server): https://discord.gg/z8rzEXpyTs
 
 # Changelog
 ## [3/22/2023]: Release v3.0
