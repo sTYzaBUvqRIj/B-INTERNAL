@@ -1,29 +1,20 @@
 ### Android version
 # B'INTERNAL - bothaxyt MOBILE version
-* Latest version: Beta v1.0
-* Growtopia version: 4.53
-* [Download APK](https://sfl.gl/uz1Sw)
-* [Download Latest LIB (4/8/24)](https://cdn.discordapp.com/attachments/1226923270683496528/1226927816998785135/libbot_B100.so?ex=66268c92&is=66141792&hm=070d6e794c551a4ed4f9cbd9ea512a52eeedd5ede77cc001b72fab35f3f14577&)
+* Latest version: Beta v2.0
+* Growtopia version: 4.54
+* [Download APK]([https://sfl.gl/uz1Sw](https://sfl.gl/HuY9bI))
 * Further information available at discord server/youtube channel (coming soon)
 * [Link discord (key at discord server)](https://discord.gg/z8rzEXpyTs)
 
-## How to use
-1. Create folder 'com.rtsoft.growtopia' inside /storage/emulated/0/Android/media
-2. Put this file inside that folder.
-3. Open patched growtopia.
-4. Click Browse then navigate to where you put the library. (Do this only once every library update)
-5. Click "Load library" and then select the library to load.
-6. Just wait until menu appears
-
-## Cara menggunakan
-1. Buat folder 'com.rtsoft.growtopia' di /storage/emulated/0/Android/media
-2. Taruh file .so yang sudah didownload ke dalam folder yang tadi
-3. Kalau sudah, buka Growtopia yang sudah dimodif
-4. Tekan Browse terus cari file .so tadi
-5. Tekan Load library terus pilih file yang kamu taruh tadi. Biar ndak bingung, setiap update library hapus library terakhir dari 'Delete library'
-6. Tunggu sampai menu keluar
 
 # Changelog
+## [4/29/2024]: Beta v2.0
+* New Auto: auto crime, auto startopia (experimental)
+* New Cheat: moonwalk, no walk animation (no visual)
+* Some executor bugs fixed
+* Some cheat removed due to uselessness and crash potential
+* Added auto recreate imgui context when screen size changed (Enable in setting)
+
 ## [4/8/2024]: Beta v1.0
 * Some feature adapted from old menus
 * Enhanched lua executor (less crash, more stable). Lua docs coming soon
