@@ -8,6 +8,10 @@
 
 
 # Changelog
+
+## [5/1/2024]: Beta v2.1
+* Fix SendPacketRaw executor bug
+
 ## [4/29/2024]: Beta v2.0
 * New Auto: auto crime, auto startopia (experimental)
 * New Cheat: moonwalk, no walk animation (no visual)
