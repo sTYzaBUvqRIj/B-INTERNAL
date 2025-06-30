@@ -1,3 +1,37 @@
+### Windows Version
+# B'INTERNAL - bothaxyt (Growtopia) Internal
+* Latest version: Release v4.0
+* Growtopia version: 5.19 (added version bypass so you can still login to RGT)
+* Download link unavailable yet
+
+# Changelog
+## [6/30/2025]: Release v4.0
+* Wake up after 2 years :D
+* Less crash i guess?
+* Lua update: Using sol3, also no std::thread anymore, instead i use coroutine
+* Added lua api: SetTileFlags
+* TODO: some of the previous B'INTERNAL version lua API is not yet added 
+
+## [3/22/2023]: Release v3.0
+* Added lua api: RunDelayed, Choice, MultiChoice
+* Added shortcut
+* Added config at Framework
+
+## [3/4/2023]: Release v2.0
+* Cursor TP (crtl) at Miscellanous
+* Fixed ItemInfo structure
+* Some optimization
+* Added paste key button
+
+## [2/26/2023]: Release v1.0
+* "WorldTouch" for autofarming
+* Check path for autocollect
+* GetInventory executor 100% fixed
+* SendWorldTouch API executor
+* CallGlobalFunctionFromState API support multi return
+* SendWorldTouch, SetItemSelected API
+
+
 ### Android version
 # B'INTERNAL - bothaxyt MOBILE version
 * Latest version: Beta v2.0
@@ -26,31 +60,3 @@
 * TextEditor using java
 * Some new features like touch move
 * Auto chemsynth!
-
-### Windows Version
-# B'INTERNAL - bothaxyt (Growtopia) Internal
-* Latest version: Release v3.0
-* Growtopia version: 4.19
-* [Download (semawur)](https://khaddavi.net/6nDyKZhye)
-* [Download loader](https://cdn.discordapp.com/attachments/1076792846780203088/1087991561901576213/BINTERNAL_loader__multibox.exe)
-
-# Changelog
-## [3/22/2023]: Release v3.0
-* Added lua api: RunDelayed, Choice, MultiChoice
-* Added shortcut
-* Added config at Framework
-
-## [3/4/2023]: Release v2.0
-* Cursor TP (crtl) at Miscellanous
-* Fixed ItemInfo structure
-* Some optimization
-* Added paste key button
-
-## [2/26/2023]: Release v1.0
-* "WorldTouch" for autofarming
-* Check path for autocollect
-* GetInventory executor 100% fixed
-* SendWorldTouch API executor
-* CallGlobalFunctionFromState API support multi return
-* SendWorldTouch, SetItemSelected API
-
