@@ -1,11 +1,19 @@
 ### Windows Version
 # B'INTERNAL - bothaxyt (Growtopia) Internal
-* Latest version: Release v4.0
-* Growtopia version: 5.19 (added version bypass so you can still login to RGT)
-* Download link unavailable yet
+* Latest version: Release v5.0
+* Growtopia version: 5.21
+* Premium only :(
+* [Link discord](https://discord.gg/z8rzEXpyTs)
+
 
 # Changelog
+## [7/1/2025]: Release v5.0
+* Update for Growtopia version: 5.21
+* SendVariantList fixed
+* Extractor, autocollect bug range fixed
+
 ## [6/30/2025]: Release v4.0
+* Growtopia version: 5.19
 * Wake up after 2 years :D
 * Less crash i guess?
 * Lua update: Using sol3, also no std::thread anymore, instead i use coroutine
@@ -22,15 +30,6 @@
 * Fixed ItemInfo structure
 * Some optimization
 * Added paste key button
-
-## [2/26/2023]: Release v1.0
-* "WorldTouch" for autofarming
-* Check path for autocollect
-* GetInventory executor 100% fixed
-* SendWorldTouch API executor
-* CallGlobalFunctionFromState API support multi return
-* SendWorldTouch, SetItemSelected API
-
 
 ### Android version
 # B'INTERNAL - bothaxyt MOBILE version
